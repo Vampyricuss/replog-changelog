@@ -3,6 +3,7 @@
 What's new in RepLog, newest first. RepLog is free with nothing behind a paywall.
 
 ## October 2026
+- **Volume on the muscle map.** Switch the muscle map between Sets and Volume. Volume shades each muscle by reps times weight, compared with your own average for that muscle over the last 4 weeks. Bodyweight moves count your logged body weight.
 - **Muscle split radar chart.** An alternative to the muscle map on the Stats tab: sets per muscle group against your weekly targets. Choose Map, Radar or Both in Settings.
 - **Share a workout from History.** Open any past workout and tap the share icon for the same share card you get after finishing.
 - **Siri Shortcut.** Say "Start my next workout in RepLog" to jump straight into your next routine.
@@ -11,6 +12,7 @@ What's new in RepLog, newest first. RepLog is free with nothing behind a paywall
 - **Faster start.** Your routines, exercises and history show instantly from your phone while the latest data loads, instead of flashing empty.
 - **Friendlier errors.** Technical error text from the server is replaced with a plain message.
 - **Fix:** water reminders no longer fire in a burst during a workout.
+- **Fix:** opening a sign-up confirmation link on a different device no longer says the link has expired. It now tells you your email is confirmed and you can sign in.
 
 ## September 2026
 - **Progress photos removed.** The feature is gone for now to keep storage costs down. Your other data is unaffected.
